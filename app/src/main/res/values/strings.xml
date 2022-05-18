@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppCoordenadasGPSKotlin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- textos do App Coordenada GPS -->
+
+    <string name="coordenadas_gps_java">Coordenadas GPS (Kotlin)</string>
+    <string name="txt_valor_zero">0.00</string>
+    <string name="txt_longitude">Longitude</string>
+    <string name="txt_latitute">Latitute</string>
+    <string name="txt_pin_gps_no_mapa">Pin GPS no Mapa</string>
+    <string name="txt_valor_um">0.00</string>
+    <string name="txt_valor_longitude">Longitude</string>
+    <string name="txt_valor_latitude">Latitude</string>
+
+</resources>
